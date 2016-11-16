@@ -1,2 +1,1 @@
-# poo
-prueba 2
+# mostrar
